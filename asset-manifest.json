@@ -1,15 +1,15 @@
 {
-  "main.css": "/my-app/static/css/main.5e7648f6.chunk.css",
-  "main.js": "/my-app/static/js/main.cfd4c60a.chunk.js",
-  "main.js.map": "/my-app/static/js/main.cfd4c60a.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.ad3febe6.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.ad3febe6.js.map",
-  "static/js/2.39313b4f.chunk.js": "/my-app/static/js/2.39313b4f.chunk.js",
-  "static/js/2.39313b4f.chunk.js.map": "/my-app/static/js/2.39313b4f.chunk.js.map",
-  "static/js/3.d62f7fe7.chunk.js": "/my-app/static/js/3.d62f7fe7.chunk.js",
-  "static/js/3.d62f7fe7.chunk.js.map": "/my-app/static/js/3.d62f7fe7.chunk.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.bc0a293f120ca4da2a6938b310395638.js": "/my-app/precache-manifest.bc0a293f120ca4da2a6938b310395638.js",
-  "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.5e7648f6.chunk.css.map": "/my-app/static/css/main.5e7648f6.chunk.css.map"
+  "main.css": "/TextUtils231/static/css/main.5e7648f6.chunk.css",
+  "main.js": "/TextUtils231/static/js/main.cfd4c60a.chunk.js",
+  "main.js.map": "/TextUtils231/static/js/main.cfd4c60a.chunk.js.map",
+  "runtime~main.js": "/TextUtils231/static/js/runtime~main.f22070e5.js",
+  "runtime~main.js.map": "/TextUtils231/static/js/runtime~main.f22070e5.js.map",
+  "static/js/2.39313b4f.chunk.js": "/TextUtils231/static/js/2.39313b4f.chunk.js",
+  "static/js/2.39313b4f.chunk.js.map": "/TextUtils231/static/js/2.39313b4f.chunk.js.map",
+  "static/js/3.d62f7fe7.chunk.js": "/TextUtils231/static/js/3.d62f7fe7.chunk.js",
+  "static/js/3.d62f7fe7.chunk.js.map": "/TextUtils231/static/js/3.d62f7fe7.chunk.js.map",
+  "index.html": "/TextUtils231/index.html",
+  "precache-manifest.413901707049eb78befa740b6d55c3ac.js": "/TextUtils231/precache-manifest.413901707049eb78befa740b6d55c3ac.js",
+  "service-worker.js": "/TextUtils231/service-worker.js",
+  "static/css/main.5e7648f6.chunk.css.map": "/TextUtils231/static/css/main.5e7648f6.chunk.css.map"
 }
